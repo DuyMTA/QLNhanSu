@@ -1,0 +1,100 @@
+E:\QL_NHANSU-\QL_NHANSU\QL_NHANSU\bin\Debug\QL_NHANSU.exe.config
+E:\QL_NHANSU-\QL_NHANSU\QL_NHANSU\bin\Debug\QL_NHANSU.exe
+E:\QL_NHANSU-\QL_NHANSU\QL_NHANSU\bin\Debug\QL_NHANSU.pdb
+E:\QL_NHANSU-\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.csprojResolveAssemblyReference.cache
+E:\QL_NHANSU-\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.AddNV.resources
+E:\QL_NHANSU-\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.DA.resources
+E:\QL_NHANSU-\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.NV.resources
+E:\QL_NHANSU-\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.PB.resources
+E:\QL_NHANSU-\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.Properties.Resources.resources
+E:\QL_NHANSU-\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.csproj.GenerateResource.Cache
+E:\QL_NHANSU-\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.exe
+E:\QL_NHANSU-\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.pdb
+E:\QL_NHANSU-\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.AddTN.resources
+E:\QL_NHANSU-\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.EditNV.resources
+E:\QL_NHANSU-\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.EditTN.resources
+E:\QL_NHANSU-\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.Main.resources
+C:\Users\Administrator\Desktop\QL_NHANSU\QL_NHANSU\bin\Debug\QL_NHANSU.exe.config
+C:\Users\Administrator\Desktop\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.exe
+C:\Users\Administrator\Desktop\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.pdb
+C:\Users\Administrator\Desktop\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.AddNV.resources
+C:\Users\Administrator\Desktop\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.AddTN.resources
+C:\Users\Administrator\Desktop\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.EditNV.resources
+C:\Users\Administrator\Desktop\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.EditTN.resources
+C:\Users\Administrator\Desktop\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.Main.resources
+C:\Users\Administrator\Desktop\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.Properties.Resources.resources
+C:\Users\Administrator\Desktop\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\QL_NHANSU\QL_NHANSU\bin\Debug\QL_NHANSU.exe
+C:\Users\Administrator\Desktop\QL_NHANSU\QL_NHANSU\bin\Debug\QL_NHANSU.pdb
+C:\Users\Administrator\Desktop\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.GUI.DA.resources
+C:\Users\Administrator\Desktop\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.GUI.NV.resources
+C:\Users\Administrator\Desktop\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.GUI.PB.resources
+C:\Users\Administrator\Desktop\QL_NHANSU\QL_NHANSU\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Desktop\QL_NHANSU\QL_NHANSU\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\QL_NHANSU\QL_NHANSU\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Desktop\QL_NHANSU\QL_NHANSU\bin\Debug\EntityFramework.SqlServer.xml
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QL_NHANSU\QL_NHANSU\QL_NHANSU\bin\Debug\QL_NHANSU.exe.config
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.exe
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.pdb
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.csprojResolveAssemblyReference.cache
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.AddNV.resources
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.AddTN.resources
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.GUI.DA.resources
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.EditNV.resources
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.GUI.EditTN.resources
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.GUI.NV.resources
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.GUI.PB.resources
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.Main.resources
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.Properties.Resources.resources
+D:\ký 4\Year3Season2\ky 6\thuctapnhom\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Năm 4 kì 1\ky 6\thuctapnhom\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Năm 4 kì 1\ky 6\thuctapnhom\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.AddNV.resources
+C:\Users\Admin\Desktop\Năm 4 kì 1\ky 6\thuctapnhom\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.AddTN.resources
+C:\Users\Admin\Desktop\Năm 4 kì 1\ky 6\thuctapnhom\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.GUI.DA.resources
+C:\Users\Admin\Desktop\Năm 4 kì 1\ky 6\thuctapnhom\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.EditNV.resources
+C:\Users\Admin\Desktop\Năm 4 kì 1\ky 6\thuctapnhom\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.GUI.EditTN.resources
+C:\Users\Admin\Desktop\Năm 4 kì 1\ky 6\thuctapnhom\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.GUI.NV.resources
+C:\Users\Admin\Desktop\Năm 4 kì 1\ky 6\thuctapnhom\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.GUI.PB.resources
+C:\Users\Admin\Desktop\Năm 4 kì 1\ky 6\thuctapnhom\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.Main.resources
+C:\Users\Admin\Desktop\Năm 4 kì 1\ky 6\thuctapnhom\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.Properties.Resources.resources
+C:\Users\Admin\Desktop\Năm 4 kì 1\ky 6\thuctapnhom\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Năm 4 kì 1\ky 6\thuctapnhom\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.exe
+C:\Users\Admin\Desktop\Năm 4 kì 1\ky 6\thuctapnhom\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.pdb
+E:\TAI LIEU HOC TAP\KI 6\ky 6\thuctapnhom\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.csprojResolveAssemblyReference.cache
+E:\TAI LIEU HOC TAP\KI 6\ky 6\thuctapnhom\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.AddNV.resources
+E:\TAI LIEU HOC TAP\KI 6\ky 6\thuctapnhom\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.AddTN.resources
+E:\TAI LIEU HOC TAP\KI 6\ky 6\thuctapnhom\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.GUI.DA.resources
+E:\TAI LIEU HOC TAP\KI 6\ky 6\thuctapnhom\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.EditNV.resources
+E:\TAI LIEU HOC TAP\KI 6\ky 6\thuctapnhom\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.GUI.EditTN.resources
+E:\TAI LIEU HOC TAP\KI 6\ky 6\thuctapnhom\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.GUI.NV.resources
+E:\TAI LIEU HOC TAP\KI 6\ky 6\thuctapnhom\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.GUI.PB.resources
+E:\TAI LIEU HOC TAP\KI 6\ky 6\thuctapnhom\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.Main.resources
+E:\TAI LIEU HOC TAP\KI 6\ky 6\thuctapnhom\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.Properties.Resources.resources
+E:\TAI LIEU HOC TAP\KI 6\ky 6\thuctapnhom\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.csproj.GenerateResource.Cache
+E:\TAI LIEU HOC TAP\KI 6\ky 6\thuctapnhom\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.exe
+E:\TAI LIEU HOC TAP\KI 6\ky 6\thuctapnhom\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.pdb
+C:\Users\boyca\OneDrive\Desktop\ky 6\thuctapnhom\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.csprojAssemblyReference.cache
+C:\Users\boyca\OneDrive\Desktop\ky 6\thuctapnhom\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.AddNV.resources
+C:\Users\boyca\OneDrive\Desktop\ky 6\thuctapnhom\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.AddTN.resources
+C:\Users\boyca\OneDrive\Desktop\ky 6\thuctapnhom\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.EditNV.resources
+C:\Users\boyca\OneDrive\Desktop\ky 6\thuctapnhom\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.GUI.EditTN.resources
+C:\Users\boyca\OneDrive\Desktop\ky 6\thuctapnhom\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.GUI.NV.resources
+C:\Users\boyca\OneDrive\Desktop\ky 6\thuctapnhom\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.GUI.PB.resources
+C:\Users\boyca\OneDrive\Desktop\ky 6\thuctapnhom\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.Main.resources
+C:\Users\boyca\OneDrive\Desktop\ky 6\thuctapnhom\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.Properties.Resources.resources
+C:\Users\boyca\OneDrive\Desktop\ky 6\thuctapnhom\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.csproj.GenerateResource.cache
+C:\Users\boyca\OneDrive\Desktop\ky 6\thuctapnhom\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.csproj.CoreCompileInputs.cache
+C:\Users\boyca\OneDrive\Desktop\ky 6\thuctapnhom\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.exe
+C:\Users\boyca\OneDrive\Desktop\ky 6\thuctapnhom\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.pdb
+C:\Users\boyca\OneDrive\Desktop\ky 6\thuctapnhom\QL_NHANSU\QL_NHANSU\QL_NHANSU\bin\Debug\QL_NHANSU.exe.config
+C:\Users\boyca\OneDrive\Desktop\ky 6\thuctapnhom\QL_NHANSU\QL_NHANSU\QL_NHANSU\bin\Debug\QL_NHANSU.exe
+C:\Users\boyca\OneDrive\Desktop\ky 6\thuctapnhom\QL_NHANSU\QL_NHANSU\QL_NHANSU\bin\Debug\QL_NHANSU.pdb
+C:\Users\boyca\OneDrive\Desktop\ky 6\thuctapnhom\QL_NHANSU\QL_NHANSU\QL_NHANSU\bin\Debug\EntityFramework.dll
+C:\Users\boyca\OneDrive\Desktop\ky 6\thuctapnhom\QL_NHANSU\QL_NHANSU\QL_NHANSU\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\boyca\OneDrive\Desktop\ky 6\thuctapnhom\QL_NHANSU\QL_NHANSU\QL_NHANSU\bin\Debug\EntityFramework.xml
+C:\Users\boyca\OneDrive\Desktop\ky 6\thuctapnhom\QL_NHANSU\QL_NHANSU\QL_NHANSU\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\boyca\OneDrive\Desktop\ky 6\thuctapnhom\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.csproj.CopyComplete
+C:\Users\boyca\OneDrive\Desktop\ky 6\thuctapnhom\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.GUI.Login.resources
+C:\Users\boyca\OneDrive\Desktop\ky 6\thuctapnhom\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.GUI.DuAnNV.resources
+C:\Users\boyca\OneDrive\Desktop\ky 6\thuctapnhom\QL_NHANSU\QL_NHANSU\QL_NHANSU\obj\Debug\QL_NHANSU.GUI.NhanVienNV.resources
